@@ -1,0 +1,25 @@
+{
+  "name": "12-Employer-Management-System",
+  "version": "1.0.0",
+  "description": "This is a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marian94/12-Employer-Management-System.git"
+  },
+  "author": "Mariana Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marian94/12-Employer-Management-System/issues"
+  },
+  "homepage": "https://github.com/Marian94/12-Employer-Management-System#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3",
+    "server": "^1.0.37"
+  }
+}
