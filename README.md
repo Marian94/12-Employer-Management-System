@@ -39,6 +39,10 @@ THEN I am prompted to select an employee to update and their new role and this i
 The following video shows an example of the application being used from the command line:
 
 
+
+https://user-images.githubusercontent.com/51127563/163735275-7b89d5f1-c488-4031-8c89-1cae51eaabee.mp4
+
+
 ## Getting Started
  - Download this repository
  - Change the credentials of the user and database password in the fle 'index.js'
