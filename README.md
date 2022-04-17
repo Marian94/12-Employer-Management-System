@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/51127563/163735275-7b89d5f1-c488-4031-
 
 ## Getting Started
  - Download this repository
- - Change the credentials of the user and database password in the fle 'index.js'
+ - Change the credentials of the user and database password in the file 'index.js'
  - Run the scripts 'schema.sql' and 'seeds.sql' to add create and add information in the database
  - Run 'npm install' to install all the dependencies and libraries
  - Run 'npm start' to start the project
